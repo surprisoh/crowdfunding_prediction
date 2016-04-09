@@ -1,3 +1,3 @@
 # Crowdfunding_prediction
-    # - Web : http://www.wadiz.kr
-    # - 개요
+# - Web : http://www.wadiz.kr
+# - 개요
