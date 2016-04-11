@@ -1,4 +1,4 @@
-# Crowdfunding_prediction
+# CrowdFunding_prediction
 
 ## 1. Problem
  A.  User들이 시각적으로 볼 수 있는 Crowd Funding 웹사이트의 공간은 한정적이다.
